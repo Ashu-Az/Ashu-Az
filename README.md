@@ -40,10 +40,12 @@ My thing: **implementing research papers from scratch and checking whether their
 
 ## 📊 GitHub stats
 
-![Ashu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ashu-Az&show_icons=true&theme=default&hide_border=true&rank_icon=github)
+![GitHub streak](https://streak-stats.demolab.com/?user=Ashu-Az&hide_border=true)
+
+![Contribution graph](https://ghchart.rshah.org/40916b/Ashu-Az)
 
 ## 💬 Let's connect
 
 [![Email](https://img.shields.io/badge/Email-ashuazadblk%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ashuazadblk@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ashu--azad-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ashu-azad)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ashuazad-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashuazad/)
 [![GitHub](https://img.shields.io/badge/GitHub-Ashu--Az-181717?style=flat&logo=github&logoColor=white)](https://github.com/Ashu-Az)
