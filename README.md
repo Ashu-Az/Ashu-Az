@@ -4,6 +4,8 @@
 
 My thing: **implementing research papers from scratch and checking whether their claims survive replication.**
 
+🌐 **[Explore my portfolio →](https://portfolio-ivory-omega-17.vercel.app)** — a hacker-terminal site with an interactive shell (`Cmd+K`), live per-project visualisations, and **superashu**, my own AI chatbot. &nbsp;·&nbsp; [source](https://github.com/Ashu-Az/portfolio-site)
+
 ## 🔬 Research
 
 - 🧪 **[s-sppo](https://github.com/Ashu-Az/s-sppo)** — **First public implementation of S-SPPO (ICML 2026)**, an RL self-play alignment method, plus the vanilla SPPO baseline and both ablations. Ran a full replication study on a 16GB laptop: confirmed the paper's judge-miscalibration premise, showed semantic gating prevents late-iteration decay — and found the paper's second component is a **no-op at its stated hyperparameters** (checkpoints come out bit-identical, 3×10⁻⁸ weight diff). Nobody could verify this before: the authors never released their code.
@@ -46,6 +48,7 @@ My thing: **implementing research papers from scratch and checking whether their
 
 ## 💬 Let's connect
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live_Site-40916b?style=flat&logo=vercel&logoColor=white)](https://portfolio-ivory-omega-17.vercel.app)
 [![Email](https://img.shields.io/badge/Email-ashuazadblk%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ashuazadblk@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ashuazad-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashuazad/)
 [![GitHub](https://img.shields.io/badge/GitHub-Ashu--Az-181717?style=flat&logo=github&logoColor=white)](https://github.com/Ashu-Az)
