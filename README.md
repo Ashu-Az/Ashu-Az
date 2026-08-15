@@ -42,9 +42,21 @@ My thing: **implementing research papers from scratch and checking whether their
 
 ## 📊 GitHub stats
 
-![GitHub streak](https://streak-stats.demolab.com/?user=Ashu-Az&hide_border=true)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ashu-Az&theme=github_dark" width="82%" />
+</p>
 
-![Contribution graph](https://ghchart.rshah.org/40916b/Ashu-Az)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ashu-Az&theme=github_dark" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ashu-Az&theme=github_dark" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ashu-Az&theme=github_dark&utcOffset=5.5" width="32%" />
+</p>
+
+### 📈 Contribution & pull-request activity
+
+[![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashu-Az&bg_color=0a0f0a&color=3dff88&line=40916b&point=9dff5e&area=true&hide_border=true&custom_title=Commits%20·%20PRs%20·%20Issues%20over%20time)](https://github.com/Ashu-Az)
+
+![Contribution calendar](https://ghchart.rshah.org/40916b/Ashu-Az)
 
 ## 💬 Let's connect
 
